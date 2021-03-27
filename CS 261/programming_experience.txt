@@ -1,0 +1,10 @@
+Vincent Rastello, ONID: rastellv
+
+I know two languages well: Python and x64 MASM, I also know some HTML, CSS and JavaScript.
+
+Python I have roughly 2 years experience, MASM less than a year, the three web languages less than a year. 
+
+Python: Atom, Visual Studio Code, PyCharm. MASM: Visual Studio. Web Languages: Brackets and Visual Studio Code.
+
+Programming related courses are: CS 161, CS 225, CS 162, CS 271, currently enrolled in: CS 290 and CS 261.
+
